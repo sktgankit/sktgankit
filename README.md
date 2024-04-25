@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning/studying.
 - 🌱 I’m currently learning python & C++
 - 💞️ I’m looking to collaborate on language learning & development.
 - 📫 How to reach me sktgankit@sachinkumarthakur.onmicrosoft.com
